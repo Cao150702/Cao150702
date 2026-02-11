@@ -1,7 +1,7 @@
 <!-- Profile README for @Cao150702 -->
 
 <h1 align="center">曹天航</h1>
-<p align="center"><strong>生死有命</strong></p>
+<p align="center"><strong>用技术改变时代</strong></p>
 <p align="center">上海理工大学 · 工科试验班（电子与信息类） · 本科在读</p>
 <p align="center">方向：网络通信 / 后端服务 / 系统工程</p>
 <p align="center">联系方式：15048094700@163.com | 15048094700 | github.com/Cao150702</p>
