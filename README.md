@@ -2,9 +2,6 @@
 
 <table>
   <tr>
-    <td width="160" align="center">
-      <img src="https://github.com/Cao150702.png" width="140" height="140" alt="avatar" />
-    </td>
     <td>
       <h1>曹天航</h1>
       <p>生死有命</p>
@@ -82,17 +79,3 @@
 ## 技术兴趣
 - 无线电通信、计算机网络、开源技术
 - 可实习时间：假期（具体时长可根据企业需求协商）
-
-## GitHub 小组件
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Cao150702&show_icons=true&theme=github_dark&hide_border=true" width="100%" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cao150702&layout=compact&theme=github_dark&hide_border=true" width="100%" />
-</p>
-<p>
-  <img src="https://streak-stats.demolab.com?user=Cao150702&theme=github-dark-blue&hide_border=true" width="100%" />
-</p>
-<p>
-  <img src="https://raw.githubusercontent.com/Cao150702/Cao150702/output/github-contribution-grid-snake.svg" alt="snake" width="100%" />
-</p>
