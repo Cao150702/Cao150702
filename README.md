@@ -8,7 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=700&color=2C5364&center=true&vCenter=true&width=520&lines=%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%8A%9B%E9%87%8F%EF%BC%8C%E6%8F%90%E5%8D%87%E5%B7%A5%E7%A8%8B%E4%BB%B7%E5%80%BC;Keep+moving%2C+keep+creating" />
 </p>
 
-<h1 align="center">曹天航</h1>
 <p align="center"><strong>用技术改变时代</strong></p>
 <p align="center">上海理工大学 · 工科试验班（电子与信息类） · 本科在读</p>
 <p align="center">方向：网络通信 / 后端服务 / 系统工程</p>
