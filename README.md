@@ -99,3 +99,17 @@
 ## 技术兴趣
 - 无线电通信、计算机网络、开源技术
 - 可实习时间：假期（具体时长可根据企业需求协商）
+
+## 最近更新 (2026)
+
+### 🔧 Hytera Monitor
+SDR监听海能达Tier III数字集群系统，支持AMBE/NVOC双声码器硬件解码桥接。
+技术栈: Python · PyQt6 · RTL-SDR/LimeSDR · DMR协议栈
+
+### 🏢 Smart Dorm Allocation
+基于Next.js开发的智慧寝室分配系统，支持管理员手动/自动分配与学生查询。
+技术栈: Next.js · Prisma · TypeScript · Tailwind CSS
+
+### 🎓 SCIII - 高校科研合作平台
+高校环境设计科研合作展示与匹配平台，支持项目申请/审批/评价全流程。
+技术栈: Next.js · TypeScript · Prisma
