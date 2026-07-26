@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=700&color=2C5364&center=true&vCenter=true&width=520&lines=%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%8A%9B%E9%87%8F%EF%BC%8C%E6%8F%90%E5%8D%87%E5%B7%A5%E7%A8%8B%E4%BB%B7%E5%80%BC;Keep+moving%2C+keep+creating" />
 </p>
 
-<p align="center">上海理工大学 · 工科试验班（电子与信息类） · 本科在读</p>
+<p align="center">上海理工大学 · 通信工程 · 本科在读</p>
 <p align="center">方向：网络通信 / AI全栈 / 系统工程</p>
 <p align="center">联系方式：15048094700@163.com | 15048094700 | github.com/Cao150702</p>
 
