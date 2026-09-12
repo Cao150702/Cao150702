@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+<title id="title">曹天航 Tianhang Cao — 无线电、代码与一些好奇心</title><desc id="desc">深蓝色无线电工作台，橙色频谱、调谐刻度和缓慢闪动的信号点。</desc>
+<style>.pulse{animation:pulse 3s ease-in-out infinite}@keyframes pulse{50%{opacity:.3}}@media(prefers-reduced-motion:reduce){.pulse{animation:none}}</style>
+<rect width="1200" height="440" rx="12" fill="#102731"/>
+<path d="M0 368H1200" stroke="#36505a"/>
+<g fill="#8da9b1" font-family="monospace" font-size="13" letter-spacing="2"><text x="52" y="48">CAO150702 / PERSONAL WORKBENCH</text><text x="52" y="407">RADIO · SOFTWARE · CURIOSITY</text><text x="1000" y="407">HELLO, WORLD.</text></g>
+<circle class="pulse" cx="1108" cy="43" r="5" fill="#f1a567"/><text x="52" y="138" font-family="PingFang SC,Microsoft YaHei,sans-serif" font-size="58" font-weight="600" fill="#f5f1e8">曹天航</text>
+<text x="55" y="181" font-family="Arial,sans-serif" font-size="23" letter-spacing="4" fill="#a9c2c7">TIANHANG CAO</text>
+<text x="52" y="255" font-family="PingFang SC,Microsoft YaHei,sans-serif" font-size="27" fill="#f5f1e8">无线电、代码，与一些好奇心。</text>
+<text x="52" y="300" font-family="PingFang SC,Microsoft YaHei,sans-serif" font-size="17" fill="#a9c2c7">上海理工大学 · 通信工程在读</text>
+<g transform="translate(925 183)" fill="none"><circle r="114" stroke="#37515a"/><circle r="89" stroke="#37515a" stroke-dasharray="2 9"/><circle r="58" stroke="#37515a"/><path d="M-130 0H130M0-130V130" stroke="#37515a"/><path d="M-99 55A114 114 0 0 1 94-64" stroke="#f1a567" stroke-width="3"/><path d="M0 0L70-76" stroke="#f1a567" stroke-width="2"/><circle r="7" fill="#f1a567" stroke="#102731" stroke-width="3"/></g>
+<path d="M710 339v-8.0" stroke="#4c6b73" stroke-width="3"/>
+<path d="M717 339v-20.8" stroke="#4c6b73" stroke-width="3"/>
+<path d="M724 339v-8.9" stroke="#4c6b73" stroke-width="3"/>
+<path d="M731 339v-19.2" stroke="#4c6b73" stroke-width="3"/>
+<path d="M738 339v-11.4" stroke="#4c6b73" stroke-width="3"/>
+<path d="M745 339v-17.1" stroke="#4c6b73" stroke-width="3"/>
+<path d="M752 339v-16.3" stroke="#4c6b73" stroke-width="3"/>
+<path d="M759 339v-17.4" stroke="#4c6b73" stroke-width="3"/>
+<path d="M766 339v-26.4" stroke="#4c6b73" stroke-width="3"/>
+<path d="M773 339v-25.5" stroke="#4c6b73" stroke-width="3"/>
+<path d="M780 339v-43.9" stroke="#f1a567" stroke-width="3"/>
+<path d="M787 339v-41.0" stroke="#f1a567" stroke-width="3"/>
+<path d="M794 339v-60.4" stroke="#f1a567" stroke-width="3"/>
+<path d="M801 339v-50.2" stroke="#f1a567" stroke-width="3"/>
+<path d="M808 339v-59.7" stroke="#f1a567" stroke-width="3"/>
+<path d="M815 339v-42.4" stroke="#f1a567" stroke-width="3"/>
+<path d="M822 339v-42.0" stroke="#f1a567" stroke-width="3"/>
+<path d="M829 339v-27.9" stroke="#4c6b73" stroke-width="3"/>
+<path d="M836 339v-23.7" stroke="#4c6b73" stroke-width="3"/>
+<path d="M843 339v-20.2" stroke="#4c6b73" stroke-width="3"/>
+<path d="M850 339v-13.6" stroke="#4c6b73" stroke-width="3"/>
+<path d="M857 339v-19.5" stroke="#4c6b73" stroke-width="3"/>
+<path d="M864 339v-9.4" stroke="#4c6b73" stroke-width="3"/>
+<path d="M871 339v-20.7" stroke="#4c6b73" stroke-width="3"/>
+<path d="M878 339v-8.0" stroke="#4c6b73" stroke-width="3"/>
+<path d="M885 339v-20.9" stroke="#4c6b73" stroke-width="3"/>
+<path d="M892 339v-8.6" stroke="#4c6b73" stroke-width="3"/>
+<path d="M899 339v-19.6" stroke="#4c6b73" stroke-width="3"/>
+<path d="M906 339v-11.0" stroke="#4c6b73" stroke-width="3"/>
+<path d="M913 339v-18.0" stroke="#4c6b73" stroke-width="3"/>
+<path d="M920 339v-17.9" stroke="#4c6b73" stroke-width="3"/>
+<path d="M927 339v-24.5" stroke="#4c6b73" stroke-width="3"/>
+<path d="M934 339v-41.0" stroke="#f1a567" stroke-width="3"/>
+<path d="M941 339v-52.1" stroke="#f1a567" stroke-width="3"/>
+<path d="M948 339v-77.9" stroke="#f1a567" stroke-width="3"/>
+<path d="M955 339v-73.5" stroke="#f1a567" stroke-width="3"/>
+<path d="M962 339v-79.1" stroke="#f1a567" stroke-width="3"/>
+<path d="M969 339v-49.7" stroke="#f1a567" stroke-width="3"/>
+<path d="M976 339v-44.4" stroke="#f1a567" stroke-width="3"/>
+<path d="M983 339v-20.3" stroke="#4c6b73" stroke-width="3"/>
+<path d="M990 339v-22.5" stroke="#4c6b73" stroke-width="3"/>
+<path d="M997 339v-13.2" stroke="#4c6b73" stroke-width="3"/>
+<path d="M1004 339v-15.7" stroke="#4c6b73" stroke-width="3"/>
+<path d="M1011 339v-15.3" stroke="#4c6b73" stroke-width="3"/>
+<path d="M1018 339v-12.1" stroke="#4c6b73" stroke-width="3"/>
+<path d="M1025 339v-18.3" stroke="#4c6b73" stroke-width="3"/>
+<path d="M1032 339v-9.4" stroke="#4c6b73" stroke-width="3"/>
+<path d="M1039 339v-20.4" stroke="#4c6b73" stroke-width="3"/>
+<path d="M1046 339v-8.1" stroke="#4c6b73" stroke-width="3"/>
+<path d="M1053 339v-21.0" stroke="#4c6b73" stroke-width="3"/>
+<path d="M1060 339v-8.4" stroke="#4c6b73" stroke-width="3"/>
+<path d="M1067 339v-19.8" stroke="#4c6b73" stroke-width="3"/>
+<path d="M1074 339v-10.3" stroke="#4c6b73" stroke-width="3"/>
+<path d="M1081 339v-17.3" stroke="#4c6b73" stroke-width="3"/>
+<path d="M1088 339v-13.3" stroke="#4c6b73" stroke-width="3"/>
+<path d="M1095 339v-14.0" stroke="#4c6b73" stroke-width="3"/>
+<path d="M1102 339v-16.6" stroke="#4c6b73" stroke-width="3"/>
+<path d="M1109 339v-10.9" stroke="#4c6b73" stroke-width="3"/>
+</svg>

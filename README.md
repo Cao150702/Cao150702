@@ -1,76 +1,83 @@
-<!-- Profile README for @Cao150702 -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=160&section=header&text=%E6%9B%B9%E5%A4%A9%E8%88%AA%20%7C%20Resume&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%E7%94%A8%E6%8A%80%E6%9C%AF%E6%94%B9%E5%8F%98%E6%97%B6%E4%BB%A3&descAlignY=58" />
+  <img src="assets/header.svg" width="100%" alt="曹天航 Tianhang Cao — 无线电、代码与一些好奇心" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=700&color=2C5364&center=true&vCenter=true&width=520&lines=%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%8A%9B%E9%87%8F%EF%BC%8C%E6%8F%90%E5%8D%87%E5%B7%A5%E7%A8%8B%E4%BB%B7%E5%80%BC;Keep+moving%2C+keep+creating" />
+  <b>你好，我是天航。</b> 欢迎来到我的个人工作台。
+</p>
+<p align="center">
+  <a href="#-正在折腾">正在折腾</a> · <a href="#-作品橱窗">作品橱窗</a> · <a href="#-一路走来">一路走来</a> · <a href="mailto:15048094700@163.com">打个招呼</a>
 </p>
 
-<p align="center">上海理工大学 · 通信工程 · 本科在读</p>
-<p align="center">方向：网络通信 / AI全栈 / 系统工程</p>
-<p align="center">联系方式：15048094700@163.com | 15048094700 | github.com/Cao150702</p>
+## 📡 正在折腾
 
----
+我在上海理工大学读通信工程。从机器人、模型比赛，到无线电、家庭网络和软件项目，兴趣一直在往外长。喜欢动手试，也喜欢看一个想法慢慢变成能用的东西。
 
-## 个人简介
-- 具备扎实的工科专业基础，系统掌握 C 语言与 Python 编程技能，深入理解计算机网络 TCP/IP 协议栈核心原理，对网络通信、后端服务架构有浓厚探索欲；同时拥有嵌入式开发经验，熟悉硬件底层逻辑，具备软硬件协同开发思维。
-- 技术实践能力突出，拥有黑苹果系统搭建、软路由配置与优化等深度技术折腾经验，擅长通过自主钻研解决复杂技术问题；深耕业余无线电领域，具备信号处理与通信调试的实操能力，对技术原理有极致追求。
-- 兼具产品思维与审美素养，熟练使用 Axure 等原型工具，能高效完成产品原型设计与需求梳理；掌握摄影与视频剪辑技术，可独立完成项目宣传素材的拍摄与后期制作，为产品呈现提供多维支持。
-- 学习能力与适应力强，能快速掌握新技术并应用于实践，始终保持对技术迭代的敏感度；以严谨的逻辑思维与扎实的工程数学基础为支撑，致力于将理论知识转化为工程落地价值，为团队创造实际贡献。
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>01 / 无线电与网络</h3>
+<p>数字中继、SDR、家庭网络，还有设备之间的连接。遇到问题就查资料、看日志、做实验，在折腾中学习。</p>
+<p><sub>DMR · SDR · Home Lab</sub></p>
+</td>
+<td width="50%" valign="top">
+<h3>02 / 软件与 AI</h3>
+<p>在酷爱科技实习，参与 Simi / OrgOS 相关工作。也用 AI 辅助开发个人作品，继续补齐编程与系统基础。</p>
+<p><sub>AI applications · Tools · Side projects</sub></p>
+</td>
+</tr>
+</table>
 
-## 教育背景
-**上海理工大学 | 本科 | 工科试验班（电子与信息类）**
-- 2025.09 - 至今
-- 采用电子信息工程大类培养模式，课程体系兼顾理论深度与实践导向，着重强化工程基础能力与问题解决能力
+## 🧩 作品橱窗
 
-## 专业技能
-- 编程语言：C、Python
-- 计算机网络：TCP/IP 协议栈、HTTP/HTTPS、常见请求方法与状态码
-- 工程工具：Claude Code、Codex、Xcode、Git
-- 英语能力：可阅读英文技术文档与 API 手册
-- 工具习惯：已将 AI 辅助工具融入生产
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Cao150702/portapack-dmr-monitor">PortaPack DMR Monitor ↗</a></h3>
+<p><b>把集群信令变成能随身查看的业务活动。</b></p>
+<p>在 HackRF / PortaPack 上开发 DMR 监听插件，围绕站点、信道与呼叫观察组织信息，记录现场活动，回来继续分析。</p>
+<p><sub>手持集群观察 · 业务状态 · 记录回顾</sub></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Cao150702/pi-mmdvm-trunking">树莓派 + MMDVM 集群站点 ↗</a></h3>
+<p><b>用小型硬件平台，跑真实终端的集群流程。</b></p>
+<p>围绕 DMR Tier III 推进平台适配与互通实验，已有终端登记、业务授权和单站组呼语音上行记录。</p>
+<p><sub>集群站点实验 · 终端互通 · 持续开发</sub></p>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+<h3><a href="https://github.com/Cao150702/pintu-public">拼途 · Pintu ↗</a></h3>
+<p>找回曾经的那个未来。用切割、旋转与拼接，走过一段几何叙事。</p>
+<p><sub>交互作品 · 公开项目介绍</sub></p>
+</td>
+</tr>
+</table>
 
-## 实习经历
-**上海酷爱科技有限公司 | AI交付实习生**
-- 2026.5.18 - 至今
-- 为国盛AI Future Hub 空间智能体设计方案
+<p align="right"><a href="https://github.com/Cao150702?tab=repositories">逛逛其他仓库 →</a></p>
 
-**北京清华同衡规划设计研究院有限公司 | 原型设计实习生**
-- 2023.07.31 - 2023.08.13
-- 对 500+ 份项目文档进行分类整理与校验，保障数据完整性
-- 使用 Excel 函数与简单脚本提升数据处理效率约 30%
-- 参与项目例会与协作流程，熟悉工程类项目交付链路
+## 🛠️ 工作台的其他角落
 
-## 项目经历
-**ios_glm | 全栈工程师**
-- 2025.12 - 至今
-- 基于 openAutoglm 二次开发，面向越狱 iOS 设备用 FRIDA 实现类 ADB 功能
+- **家庭网络**：R5S 软路由、DDNS、SMB，以及日常服务的部署与调试。
+- **设备与自动化**：iOS 设备控制尝试、OCR 日程工具、基于 Docker / MQTT 的设备接入。
+- **产品与画面**：做过景区系统原型，也喜欢摄影、视频剪辑和作品的视觉呈现。
+- **日常工具**：Git、Xcode、Python，以及 Claude Code / Codex 等 AI 辅助工具。工具会变，想做的东西也会继续长出来。
 
-**家庭网络设计 | 网络工程师**
-- 2024.01 - 2025.08
-- 设计家庭网络拓扑，基于 R5S 软路由部署 DDNS、SMB、HTTP 与 DNS 加速服务
+## 🌱 一路走来
 
-**数字中继台架设 | 全栈工程师**
-- 2025.06 - 2025.08
-- 完成海能达 RD980 DMR 中继台架设、天馈系统焊接与信号测试
-- 进行中继台编程配置、终端 ID 分配与状态监控部署
+**2026 — 现在** · 在酷爱科技实习，接触 AI 应用与实际项目。  
+**2025 — 现在** · 上海理工大学本科在读，继续探索通信和软件。  
+**2023** · 在清华同衡参与原型设计与项目资料整理。  
+**更早一些** · 机器人、航模、编程比赛，和第一个用 Python 写的小工具。
 
-**NFM Over Internet 设备 MQTT 服务器搭建 | 负责人**
-- 2025.10 - 2025.10
-- 在云服务器 Docker 容器部署 EMQX，设计设备接入方案并完成调试
+<details>
+<summary><b>展开看看：早期作品与比赛足迹</b></summary>
 
-**OCR 日程 | 全栈工程师**
-- 2025.11 - 至今
-- 使用 Xcode 开发 iOS 应用，集成屏幕内容抓取与 OCR 识别
+### 二次根式化简
 
-**莫日格勒河智慧景区系统 | 原型设计师**
-- 2023.08 - 2023.08
-- 负责游客服务、设备监控、数据统计等核心模块原型搭建
+初中时用 Python 写过二次根式化简程序，尝试把递归过程改成非递归实现。它也是早期参加编程与科技活动的一段经历。
 
-## 荣誉与奖项
-> 早期长期参与科技创新与模型竞赛，形成持续的工程与编程实践能力。
+### 比赛记录
 
 | 时间 | 奖项 |
 | --- | --- |
@@ -94,26 +101,10 @@
 | 2017.08 | 全国航海模型运动竞赛一等奖、二等奖、优胜奖 |
 | 2017.07 | 2017 年呼伦贝尔市青少年航海模型选拔赛小学组第二名、第三名 |
 
-## 个人作品
-**二次根式化简 | 个人作品**
-- 初中阶段基于 Python 开发二次根式化简程序
-- 采用递归算法的非递归化优化，提升运行效率
-- 获中学生技术竞赛奖项并被引入课堂教学
+</details>
 
-## 技术兴趣
-- 无线电通信、计算机网络、开源技术
-- 可实习时间：假期（具体时长可根据企业需求协商）
+---
 
-## 最近更新 (2026)
-
-### 🔧 Hytera Monitor
-SDR监听海能达Tier III数字集群系统，支持AMBE/NVOC双声码器硬件解码桥接。
-技术栈: Python · PyQt6 · RTL-SDR/LimeSDR · DMR协议栈
-
-### 🏢 Smart Dorm Allocation
-基于Next.js开发的智慧寝室分配系统，支持管理员手动/自动分配与学生查询。
-技术栈: Next.js · Prisma · TypeScript · Tailwind CSS
-
-### 🎓 SCIII - 高校科研合作平台
-高校环境设计科研合作展示与匹配平台，支持项目申请/审批/评价全流程。
-技术栈: Next.js · TypeScript · Prisma
+<p align="center"><b>欢迎聊无线电、聊作品，也聊还没做出来的想法。</b></p>
+<p align="center"><a href="mailto:15048094700@163.com">15048094700@163.com</a> · <a href="https://github.com/Cao150702">@Cao150702</a></p>
+<p align="center"><sub>Keep moving, keep creating. / 保持好奇，继续动手。</sub></p>
