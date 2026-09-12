@@ -1,83 +1,99 @@
-<p align="center">
-  <img src="assets/header.svg" width="100%" alt="曹天航 Tianhang Cao — 无线电、代码与一些好奇心" />
-</p>
+<p><picture>
+  <source media="(max-width: 600px)" srcset="assets/header-mobile.svg" />
+  <img src="assets/header.svg" width="100%" alt="曹天航：通信工程在读，无线电、软件与摄影。" />
+</picture></p>
 
-<p align="center">
-  <b>你好，我是天航。</b> 欢迎来到我的个人工作台。
-</p>
-<p align="center">
-  <a href="#-正在折腾">正在折腾</a> · <a href="#-作品橱窗">作品橱窗</a> · <a href="#-一路走来">一路走来</a> · <a href="mailto:15048094700@163.com">打个招呼</a>
-</p>
+[关于我](#关于我) · [正在折腾](#正在折腾) · [作品](#作品) · [一路走来](#一路走来) · [联系我](mailto:15048094700@163.com)
 
-## 📡 正在折腾
+## 关于我
 
-我在上海理工大学读通信工程。从机器人、模型比赛，到无线电、家庭网络和软件项目，兴趣一直在往外长。喜欢动手试，也喜欢看一个想法慢慢变成能用的东西。
+你好，我是天航。现在在上海理工大学读通信工程，也在酷爱科技实习，参与 **Simi / OrgOS** 相关工作。
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>01 / 无线电与网络</h3>
-<p>数字中继、SDR、家庭网络，还有设备之间的连接。遇到问题就查资料、看日志、做实验，在折腾中学习。</p>
-<p><sub>DMR · SDR · Home Lab</sub></p>
-</td>
-<td width="50%" valign="top">
-<h3>02 / 软件与 AI</h3>
-<p>在酷爱科技实习，参与 Simi / OrgOS 相关工作。也用 AI 辅助开发个人作品，继续补齐编程与系统基础。</p>
-<p><sub>AI applications · Tools · Side projects</sub></p>
-</td>
-</tr>
-</table>
+从机器人、航模和最早的 Python 小程序，到无线电、家庭网络和软件项目，我一直喜欢亲手试一试。一个想法能不能运行、设备之间能不能连起来、做出来的东西用起来是否顺手，都会让我想继续琢磨。
 
-## 🧩 作品橱窗
+这里放的是我的作品、尝试和兴趣。除了代码，我也喜欢摄影、视频剪辑和产品的视觉呈现。
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/Cao150702/portapack-dmr-monitor">PortaPack DMR Monitor ↗</a></h3>
-<p><b>把集群信令变成能随身查看的业务活动。</b></p>
-<p>在 HackRF / PortaPack 上开发 DMR 监听插件，围绕站点、信道与呼叫观察组织信息，记录现场活动，回来继续分析。</p>
-<p><sub>手持集群观察 · 业务状态 · 记录回顾</sub></p>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/Cao150702/pi-mmdvm-trunking">树莓派 + MMDVM 集群站点 ↗</a></h3>
-<p><b>用小型硬件平台，跑真实终端的集群流程。</b></p>
-<p>围绕 DMR Tier III 推进平台适配与互通实验，已有终端登记、业务授权和单站组呼语音上行记录。</p>
-<p><sub>集群站点实验 · 终端互通 · 持续开发</sub></p>
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-<h3><a href="https://github.com/Cao150702/pintu-public">拼途 · Pintu ↗</a></h3>
-<p>找回曾经的那个未来。用切割、旋转与拼接，走过一段几何叙事。</p>
-<p><sub>交互作品 · 公开项目介绍</sub></p>
-</td>
-</tr>
-</table>
+## 正在折腾
 
-<p align="right"><a href="https://github.com/Cao150702?tab=repositories">逛逛其他仓库 →</a></p>
+### 📡 无线电与网络
 
-## 🛠️ 工作台的其他角落
+业余无线电是我持续投入的兴趣。从数字中继、天馈与终端配置，到 SDR 观察和集群站点实验，关注点逐渐走向设备之间真正发生了什么。
 
-- **家庭网络**：R5S 软路由、DDNS、SMB，以及日常服务的部署与调试。
-- **设备与自动化**：iOS 设备控制尝试、OCR 日程工具、基于 Docker / MQTT 的设备接入。
-- **产品与画面**：做过景区系统原型，也喜欢摄影、视频剪辑和作品的视觉呈现。
-- **日常工具**：Git、Xcode、Python，以及 Claude Code / Codex 等 AI 辅助工具。工具会变，想做的东西也会继续长出来。
+目前最想展示的是 **HackRF / PortaPack 上的 DMR 监听插件**，以及 **树莓派 + MMDVM 集群站点实验**。家庭网络也是日常的一部分：R5S 软路由、DDNS、SMB 和自建服务，都是用着、调着慢慢积累下来的。
 
-## 🌱 一路走来
+### 🧑‍💻 软件与 AI
 
-**2026 — 现在** · 在酷爱科技实习，接触 AI 应用与实际项目。  
-**2025 — 现在** · 上海理工大学本科在读，继续探索通信和软件。  
-**2023** · 在清华同衡参与原型设计与项目资料整理。  
-**更早一些** · 机器人、航模、编程比赛，和第一个用 Python 写的小工具。
+在实习中接触 AI 应用与实际项目，也用 Claude Code、Codex 等工具辅助个人开发。对我来说，做软件既包括把功能做出来，也包括需求整理、原型设计、调试和后续改进。
+
+尝试过 iOS 设备控制、OCR 日程工具和设备接入，也会把想法做成交互作品。编程和系统基础仍在持续学习，主页里的项目记录的是具体实践。
+
+### 📷 产品与画面
+
+做过景区系统的交互原型，也喜欢拍摄和剪辑。除了功能，我在意界面怎么组织、信息怎么表达，以及一个作品最终给人的感受。
+
+## 作品
+
+<p><a href="https://github.com/Cao150702/portapack-dmr-monitor">
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/monitor-mobile.svg" />
+  <img src="assets/monitor.svg" width="100%" alt="PortaPack DMR Monitor。在 HackRF / PortaPack 上开发监听插件， 把站点、信道与呼叫活动整理成可读信息。 记录现场活动，回来继续分析。" />
+</picture>
+</a></p>
+
+<p><a href="https://github.com/Cao150702/pi-mmdvm-trunking">
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/station-mobile.svg" />
+  <img src="assets/station.svg" width="100%" alt="树莓派 + MMDVM。用小型硬件平台，与真实终端交互。 已有终端登记、业务授权和 单站组呼语音上行记录。" />
+</picture>
+</a></p>
+
+<p><a href="https://github.com/Cao150702/pintu-public">
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/pintu-mobile.svg" />
+  <img src="assets/pintu.svg" width="100%" alt="拼途 · Pintu。用切割、旋转与拼接， 走过一段几何叙事。" />
+</picture>
+</a></p>
+
+## 工作台的其他角落
+
+这些是以前做过或仍在继续的小尝试，也构成了我的兴趣轨迹。
+
+- **家庭网络与自建服务**：R5S 软路由、DDNS、SMB，以及日常服务的部署、配置和调试。
+- **iOS 设备控制**：尝试基于已有项目二次开发，探索 iOS 设备上的自动化操作。
+- **OCR 日程工具**：使用 Xcode 开发 iOS 应用，尝试把屏幕内容识别用于日程整理。
+- **设备接入**：实践过 Docker / MQTT / EMQX，用于设备接入与通信调试。
+- **景区系统原型**：做过游客服务、设备监控、数据统计等模块的原型设计。
+- **早期 Python 作品**：初中时写过二次根式化简程序，尝试将递归过程改写为非递归实现。
+
+## 常用工具与学习
+
+`Python` · `C` · `Git` · `Xcode` · `Docker` · `Axure` · `Claude Code` · `Codex`
+
+会查英文技术文档和 API 手册，也会通过日志、实验和反复调试理解问题。工具是日常实践的一部分，通信、网络和编程的基础还在继续补齐。
+
+## 一路走来
+
+**2026.05 — 现在 · 酷爱科技实习**  
+接触 AI 应用与实际项目，参与 Simi / OrgOS 相关工作。
+
+**2025.09 — 现在 · 上海理工大学**  
+本科在读，电子与信息类培养背景，学习通信相关知识，同时继续做个人项目。
+
+**2023.07 — 2023.08 · 清华同衡实习**  
+参与原型设计、项目资料整理与协作，接触实际项目的工作流程。
+
+**更早一些 · 机器人、航模与编程**  
+参加机器人、航海与航空模型、创意编程和科技创新活动。今天的很多兴趣，都是从那时延续下来的。
+
+## 比赛与早期足迹
+
+- **WER2017 世界锦标赛三等奖** · 机器人竞赛。
+- **2018 年内蒙古自治区 WER 能力挑战赛小学组冠军**。
+- **2020 年内蒙古自治区中小学电脑制作活动初中组人工智能二等奖**。
+- **2024 年第 39 届呼伦贝尔市青少年科技创新大赛青少年创意编程一等奖**。
 
 <details>
-<summary><b>展开看看：早期作品与比赛足迹</b></summary>
-
-### 二次根式化简
-
-初中时用 Python 写过二次根式化简程序，尝试把递归过程改成非递归实现。它也是早期参加编程与科技活动的一段经历。
-
-### 比赛记录
+<summary>完整比赛与活动记录</summary>
 
 | 时间 | 奖项 |
 | --- | --- |
@@ -105,6 +121,6 @@
 
 ---
 
-<p align="center"><b>欢迎聊无线电、聊作品，也聊还没做出来的想法。</b></p>
-<p align="center"><a href="mailto:15048094700@163.com">15048094700@163.com</a> · <a href="https://github.com/Cao150702">@Cao150702</a></p>
-<p align="center"><sub>Keep moving, keep creating. / 保持好奇，继续动手。</sub></p>
+**欢迎聊无线电、聊作品，也聊还没做出来的想法。**
+
+[15048094700@163.com](mailto:15048094700@163.com) · [@Cao150702](https://github.com/Cao150702)
