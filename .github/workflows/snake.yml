@@ -4,25 +4,41 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
 
-permissions:
-  contents: write
+concurrency:
+  group: output-branch-push
+  cancel-in-progress: false
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - name: Generate snake
+      - name: Generate snake from contributions
         uses: Platane/snk@v3
         with:
-          github_user_name: Cao150702
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#2b8f85&color_dots=#2b2b31,#173a36,#1f5a52,#2e7f74,#5eead4
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#5eead4&color_dots=#2b2b31,#173a36,#1f5a52,#2e7f74,#5eead4
+            dist/github-contribution-grid-snake.svg?color_snake=%232b8f85&color_dots=%23f1f1f3,%23d7f5f0,%23a9e7dd,%2347b5a7,%235eead4
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%235eead4&color_dots=%232b2b31,%23173a36,%231f5a52,%232e7f74,%235eead4&palette=github-dark
+
+      - name: Patch missing # in CSS color vars
+        run: |
+          sudo chown -R $USER:$USER dist
+          sed -i -E 's/--(cs|ce|c[0-4]):([0-9A-Fa-f]{6})/--\1:#\2/g' dist/*.svg
+          echo "=== light preview ==="
+          head -c 400 dist/github-contribution-grid-snake.svg
+          echo ""
+          echo "=== dark preview ==="
+          head -c 400 dist/github-contribution-grid-snake-dark.svg
+
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
+          keep_files: true
