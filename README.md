@@ -119,6 +119,14 @@
 
 </details>
 
+## 提交节奏
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cao150702/Cao150702/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="贡献格子上的贪吃蛇" src="https://raw.githubusercontent.com/Cao150702/Cao150702/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+
 ---
 
 **欢迎聊无线电、聊作品，也聊还没做出来的想法。**
